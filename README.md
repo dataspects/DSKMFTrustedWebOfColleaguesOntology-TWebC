@@ -1,2 +1,2 @@
-# DSKMFTrustedWebOfColleaguesOntology-TWebC
-https://smw-cindykate.com/m/index.php?title=Component0526802167
+# TrustedWebOfColleaguesOntology
+https://wiki.dataspects.com/wiki/Trusted_Web_of_Colleagues_(TWebC)
