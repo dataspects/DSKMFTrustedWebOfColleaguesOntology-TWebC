@@ -1,0 +1,24 @@
+### PAGE: TWebC-Task-7462094635
+{{TWebCTask
+    |PointersToSubject=
+        {{PointerToSubject
+            |1=MediaWiki >= 1.34 >> Operation
+        }}
+        {{PointerToSubject
+            |1=MediaWiki >= 1.34 >> Optimization
+        }}
+    |Subject=Job Queue
+    |Actions=
+        {{TWebCTaskAction
+            |Action=Configure to run regularly
+        }}
+        {{TWebCTaskAction
+            |Action=Configure to run on page requests
+        }}
+        {{TWebCTaskAction
+            |Action=Configure to run on page requests
+            |UsesSettings=$wgJobRunRate
+        }}
+    }}
+}}
+https://www.mediawiki.org/wiki/Manual:Job_queue
