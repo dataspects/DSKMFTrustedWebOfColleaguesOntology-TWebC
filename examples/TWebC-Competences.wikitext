@@ -1,4 +1,9 @@
 ### PAGE: User:Bob
     {{TWebCCompetence
         |TWebCTask=TWebC-Task-7462094635
+        |TWebCTaskCredentials=
+            {{TWebCTaskCredential
+                |Type=Testimonial
+                |Content=Has helped User:Alice on July 15th 2016 with configuring CentOS crontab for self-optimizing $wgJobRunRate.
+            }}
     }}
