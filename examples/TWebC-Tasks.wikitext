@@ -13,7 +13,7 @@
                 |Action=Configure to run regularly
             }}
             {{TWebCTaskAction
-                |Action=Configure to run on page requests
+                |Action=Configure to run continuously
             }}
             {{TWebCTaskAction
                 |Action=Configure to run on page requests
